@@ -1,0 +1,157 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:lap="http://www.notebook.fake/laptop#">
+
+	<rdf:Description
+		rdf:about ="https://www.asus.com/id/Laptops/For-Home/Vivobook/Vivobook-14-K413/">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20TUF%20Dash%20F15%20(FX516).jpg</lap:gambar>
+		<lap:nama>ASUS Vivobook Ultra 14 K413FQ</lap:nama> 
+		<lap:vga>NVIDIA® GeForce® MX350 ,2GB GDDR5</lap:vga>
+		<lap:processor>Intel® Core™ i7-10510U 1.8 GHz (8M Cache, up to 4.9 GHz)</lap:processor>
+		<lap:os>Windows 10 Home</lap:os>
+		<lap:ram>8GB DDR3, Up to 16 GB</lap:ram>
+		<lap:storage>512GB NVMe™ PCIe® 3.0 SSD</lap:storage>
+		<lap:baterai>42Whrs</lap:baterai>
+		<lap:layar>14"</lap:layar>
+		<lap:resolution>FHD</lap:resolution>
+		<lap:harga>12.800.000-13.300.000</lap:harga>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://www.hp.com/id-id/shop/hp-pavilion-gaming-laptop-15-ec2010ax-427k1pa.html">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/HP%20Pavilion%2015-ec2010AX.jpeg</lap:gambar>
+		<lap:nama>HP Pavilion 15-ec2010AX</lap:nama> 
+		<lap:vga>NVIDIA® GeForce RTX™ 3050</lap:vga>
+		<lap:processor>AMD Ryzen™ 5 5600H clock boost hingga 4,2 GHz</lap:processor>
+		<lap:os>Windows 10 Home 64</lap:os>
+		<lap:ram>16 GB DDR4-3200 MHz (2 x 8 GB)</lap:ram>
+		<lap:storage>512GB PCIe® NVMe™ M.2 SSD</lap:storage>
+		<lap:baterai>Type3-cell, 52.5 Wh Li-ion polymer</lap:baterai>
+		<lap:layar>15,6"</lap:layar>
+		<lap:resolution>FHD</lap:resolution>
+		<lap:harga>16.500.000</lap:harga>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://www.tokopedia.com/find/dell-latitude-e6410-core-i5">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/Dell%20Latitude%20E6410.jpeg</lap:gambar>
+		<lap:nama>Dell Latitude E6410</lap:nama> 
+		<lap:vga>Intel HD</lap:vga>
+		<lap:processor>Intel® Core™ i5</lap:processor>
+		<lap:os>Windows 10</lap:os>
+		<lap:ram>4GB up to 8GB</lap:ram>
+		<lap:storage>HDD 320GB</lap:storage>
+		<lap:baterai>Li-ion 11.1Volt – 58Wh 5200mAh</lap:baterai>
+		<lap:layar>14"</lap:layar>
+		<lap:resolution>HD</lap:resolution>
+		<lap:harga>2.400.000</lap:harga>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://www.asus.com/id/Laptops/For-Home/Everyday-use/ASUS-M409/">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/Asus%20M409DA.jpeg</lap:gambar>
+		<lap:nama>Asus M409DA</lap:nama> 
+		<lap:vga>AMD Radeon Vega 3 Graphics</lap:vga>
+		<lap:processor>AMD Ryzen 3 3200U (2.60 – 3.50 GHz, 1 MB Cache)</lap:processor>
+		<lap:os>Windows 10 Home</lap:os>
+		<lap:ram>4GB DDR4</lap:ram>
+		<lap:storage>1TB HDD/512 SSD</lap:storage>
+		<lap:baterai>37 whrs(2cells)</lap:baterai>
+		<lap:layar>14"</lap:layar>
+		<lap:resolution>HD</lap:resolution>
+		<lap:harga>8.700.000</lap:harga>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://www.asus.com/id/Laptops/For-Home/Vivobook/Vivobook-S14-S433/">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20Vivobook%20S14%20S433.jpeg</lap:gambar>
+		<lap:nama>ASUS Vivobook S14 S433</lap:nama> 
+		<lap:vga>NVIDIA GeForce Mxi7-10510U</lap:vga>
+		<lap:processor>Intel Core i5-10210U / Intel Core i7-10510U</lap:processor>
+		<lap:os>Windows 10</lap:os>
+		<lap:ram>RAM 8 GB DDR4</lap:ram>
+		<lap:storage>H10 512 GB + slot M.2 PCIe </lap:storage>
+		<lap:baterai>50WHrs, 3S1P, 3-cell Li-ion</lap:baterai>
+		<lap:layar>14"</lap:layar>
+		<lap:resolution>HD</lap:resolution>
+		<lap:harga>14.000.000-16.000.000</lap:harga>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://store.acer.com/en-id/swift-5-sf-514-54gt-nx.hu5sn.001">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/Acer%20Swift%205.jpeg</lap:gambar>
+		<lap:nama>Acer Swift 5 (SF514-54GT)</lap:nama> 
+		<lap:vga>Nvidia GeForce MX350 (2GB GDDR5 VRAM)</lap:vga>
+		<lap:processor>Intel® Core™ i7-1065G7</lap:processor>
+		<lap:os>Windows 10</lap:os>
+		<lap:ram>16GB onboard LPDDR4 Dual Channel Memory</lap:ram>
+		<lap:storage>512 GB SSD PCIe Gen3, 8 Gb/s, NVMe</lap:storage>
+		<lap:baterai>65Wh li-ion battery</lap:baterai>
+		<lap:layar>14"</lap:layar>
+		<lap:resolution>IPS Full HD 1920 x 1080</lap:resolution>
+		<lap:harga>14.070.000</lap:harga>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://www.bhinneka.com/asus-tuf-gaming-dash-f15-fx516pe-i7r5b6t-o-eclipse-gray-sku3337393641">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20TUF%20Dash%20F15%20(FX516).jpg</lap:gambar>
+		<lap:nama>ASUS TUF Dash F15 (FX516)</lap:nama> 
+		<lap:vga>NVIDIA GeForce RTX 3050 Ti 4GB</lap:vga>
+		<lap:processor>Intel Core i7-11370H Processor 3.3 GHz, 4 cores (12M Cache, up to 4.8GHz)</lap:processor>
+		<lap:os>Windows 10 Home</lap:os>
+		<lap:ram>16GB (8GB x 2) DDR4</lap:ram>
+		<lap:storage>512 GB SSD</lap:storage>
+		<lap:baterai>76WHrs</lap:baterai>
+		<lap:layar>15,6"</lap:layar>
+		<lap:resolution>HD</lap:resolution>
+		<lap:harga>12.800.000-13.300.000</lap:harga>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://rog.asus.com/id/laptops/rog-strix/2021-rog-strix-g15-series/">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20ROG%20Strix%20G15G513.jpeg</lap:gambar>
+		<lap:nama>ASUS ROG Strix G15 G513</lap:nama> 
+		<lap:vga>RTX3060_V6G</lap:vga>
+		<lap:processor>AMD Ryzen™ 7 4800H</lap:processor>
+		<lap:os>Windows 10 Home</lap:os>
+		<lap:ram>8GB</lap:ram>
+		<lap:storage>512GB PCIe</lap:storage>
+		<lap:baterai>90Wh</lap:baterai>
+		<lap:layar>15"</lap:layar>
+		<lap:resolution>1920 X 1080 pixels</lap:resolution>
+		<lap:harga>15.799.000</lap:harga>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://www.bhinneka.com/asus-rog-zephyrus-g14-ga401ii-r55ta8g-eclipse-gray-sku0013681075">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20ROG%20Zephyrus%20G14%20GA401II-R55TA8G.jpg</lap:gambar>
+		<lap:nama>ASUS ROG Zephyrus G14 GA401II-R55TA8G</lap:nama> 
+		<lap:vga>NVIDIA GeForce GTX 1650 Ti 4GB</lap:vga>
+		<lap:processor>AMD Ryzen 5 4600H Processor 3.0 GHz (8M Cache, up to 4.0 GHz)</lap:processor>
+		<lap:os>Windows 10 Home</lap:os>
+		<lap:ram>8GB DDR4</lap:ram>
+		<lap:storage>512GB SSD</lap:storage>
+		<lap:baterai>3 cell, 48Whr</lap:baterai>
+		<lap:layar>14"</lap:layar>
+		<lap:resolution>FHD IPS-level</lap:resolution>
+		<lap:harga>32.980.000</lap:harga>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://www.bhinneka.com/lenovo-legion-y530-15ich-81fv0110id-black-sku0017107988">
+		<lap:gambar>https://lilreel.github.io/uaslabpw2/LENOVO%20Legion%20Y530-15ICH%2081FV0110ID.jpg</lap:gambar>
+		<lap:nama>LENOVO Legion Y530-15ICH 81FV0110ID - Black</lap:nama> 
+		<lap:vga>NVIDIA GeForce GTX1050 Ti 4GB</lap:vga>
+		<lap:processor>Intel Core i5-8300H</lap:processor>
+		<lap:os>Windows 10 Home</lap:os>
+		<lap:ram>8GB DDR4 X 2</lap:ram>
+		<lap:storage>1TB HDD</lap:storage>
+		<lap:baterai>3 cell, 45Whr Li-Polymer</lap:baterai>
+		<lap:layar>15,6"</lap:layar>
+		<lap:resolution>FHD + IPS</lap:resolution>
+		<lap:harga>14.000.000</lap:harga>
+	</rdf:Description>
+
+
+	
